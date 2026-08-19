@@ -10,21 +10,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Code+that+delivers+%E2%80%94+not+just+runs;Precision+in+logic%2C+impact+in+code;From+concept+to+clean%2C+working+solutions&repeat=true"/>
 </p>
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 <p align="center">
-B.E. Computer Engineering student focused on full stack development
+🎓 B.E. Computer Engineering student focused on full stack development
 </p>
 
 <p align="center">
-🔭 Scalable Web Applications • 🌱 Flask & Java Ecosystem • 💬 Application Design
+🌐 Scalable Web Applications • 🐍 Django-based Applications • 🛠️ Python Ecosystem • 📐 Application Design
 </p>
 
 <p align="center">
 ⚡ Writing code that delivers — not just runs
 </p>
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🖥️ Languages
 
@@ -39,6 +39,9 @@ B.E. Computer Engineering student focused on full stack development
 ### 🚀 Frameworks & Libraries
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -51,8 +54,10 @@ B.E. Computer Engineering student focused on full stack development
 ### 🗄️ Databases
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </div>
 
 ### 📊 Data & ML
@@ -60,28 +65,31 @@ B.E. Computer Engineering student focused on full stack development
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/seaborn-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkX-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-### 🛠️ Tools & Version Control
+### 🔧 Tools & Version Control
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 🌟 Featured Project
+## 📌 Featured Project
 
-### 🏠 PropertyPlus — Smart Real Estate Web Application
+### RefineX — Modern Data Preprocessing & ML Platform
 
-- 🔐 **Secure Authentication** — Email OTP verification & password reset
-- ❤️ **Property Management** — Save properties + interest button
-- 📉 **Price Alerts** — Email notifications for price drops
-- 🔍 **Smart Search** — Property search & filtering
+* **Dataset Upload & Preview:** Secure CSV uploads with structural summaries and basic statistics.
+* **Automated Data Cleaning:** Missing value detection, outlier handling, duplicate removal, and type correction.
+* **Interactive Data Visualization:** Customizable charts including scatter plots, heatmaps, and box plots with image export options.
+* **Browser-Based ML Training:** Train, compare, and test models (Linear Regression, KNN, Decision Trees, SVM, Random Forest) and export trained `.joblib` files.
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ervrajai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -95,7 +103,7 @@ B.E. Computer Engineering student focused on full stack development
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ervrajai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ervrajai&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -115,7 +123,7 @@ B.E. Computer Engineering student focused on full stack development
   <a href="https://instagram.com/vraj.patel81">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/vrajpatel-codes">
+  <a href="https://www.linkedin.com/in/vraj-patel-ljiet/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vrajpatel0424@gmail.com">
@@ -123,11 +131,11 @@ B.E. Computer Engineering student focused on full stack development
   </a>
 </p>
 
-## 🔝 Top Repositories
+## ⭐ Top Repositories
 
 <p align="center">
-  <a href="https://github.com/ervrajai?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ervrajai&repo=PropertyPlus&theme=tokyonight&hide_border=true" alt="PropertyPlus" />
+  <a href="https://github.com/ervrajai/RefineX">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ervrajai&repo=RefineX&theme=tokyonight&hide_border=true" alt="RefineX" />
   </a>
 </p>
 
